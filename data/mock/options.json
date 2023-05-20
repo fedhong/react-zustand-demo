@@ -1,0 +1,182 @@
+{
+    "code": 0,
+    "data": {
+        "adType": [
+            {
+                "label": "效果广告",
+                "value": 1,
+                "keywords": [
+                    "吸引人的"
+                ]
+            },
+            {
+                "label": "品牌广告",
+                "value": 2,
+                "keywords": [
+                    "品牌"
+                ]
+            }
+        ],
+        "festival": [
+            {
+                "label": "情人节",
+                "value": 1,
+                "keywords": [
+                    "玫瑰花",
+                    "巧克力"
+                ]
+            },
+            {
+                "label": "母亲节",
+                "value": 2,
+                "keywords": [
+                    "康乃馨",
+                    "老年人喜欢的"
+                ]
+            },
+            {
+                "label": "儿童节",
+                "value": 3,
+                "keywords": [
+                    "玩具",
+                    "小朋友喜欢的"
+                ]
+            },
+            {
+                "label": "端午节",
+                "value": 4,
+                "keywords": [
+                    "粽子",
+                    "竹叶",
+                    "龙舟"
+                ]
+            },
+            {
+                "label": "中秋节",
+                "value": 5,
+                "keywords": [
+                    "月饼",
+                    "月亮"
+                ]
+            }
+        ],
+        "period": [
+            {
+                "label": "早上",
+                "value": 1,
+                "keywords": [
+                    "早餐",
+                    "鸡蛋",
+                    "牛奶"
+                ]
+            },
+            {
+                "label": "中午",
+                "value": 2,
+                "keywords": [
+                    "午餐",
+                    "汉堡",
+                    "美味佳肴"
+                ]
+            },
+            {
+                "label": "晚上",
+                "value": 3,
+                "keywords": [
+                    "晚餐",
+                    "米饭"
+                ]
+            },
+            {
+                "label": "夜宵",
+                "value": 4,
+                "keywords": [
+                    "夜宵",
+                    "小龙虾",
+                    "啤酒"
+                ]
+            }
+        ],
+        "city": [
+            {
+                "label": "北京",
+                "value": 1,
+                "keywords": [
+                    "火锅",
+                    "熊猫"
+                ]
+            },
+            {
+                "label": "成都",
+                "value": 2,
+                "keywords": [
+                    "烤鸭",
+                    "铜锅涮肉"
+                ]
+            },
+            {
+                "label": "淄博",
+                "value": 3,
+                "keywords": [
+                    "羊肉串",
+                    "烤串"
+                ]
+            }
+        ],
+        "persona": [
+            {
+                "label": "学生",
+                "value": 1,
+                "keywords": [
+                    "学生"
+                ]
+            },
+            {
+                "label": "白领",
+                "value": 2,
+                "keywords": [
+                    "白领"
+                ]
+            }
+        ],
+        "App": [
+            {
+                "label": "App1",
+                "value": 1,
+                "keywords": [
+                    "黄色系"
+                ]
+            },
+            {
+                "label": "App2",
+                "value": 2,
+                "keywords": [
+                    "袋鼠"
+                ]
+            },
+            {
+                "label": "App3",
+                "value": 3,
+                "keywords": [
+                    "绿色系"
+                ]
+            }
+        ],
+        "OS": [
+            {
+                "label": "iOS",
+                "value": 1,
+                "keywords": [
+                    "iOS"
+                ]
+            },
+            {
+                "label": "Android",
+                "value": 2,
+                "keywords": [
+                    "Android"
+                ]
+            }
+        ]
+    }
+}
