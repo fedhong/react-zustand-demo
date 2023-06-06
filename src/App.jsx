@@ -6,6 +6,7 @@ import StyleOptions from './components/StyleOptions'
 import Preview from './components/Preview'
 import 'antd/dist/antd.css'
 import './App.less'
+// import { BrowserRouter, Routes, Route, Navigate, Link, useLocation, useParams } from "react-router-dom"
 
 const { Step } = Steps
 
@@ -89,6 +90,31 @@ function App() {
 						)}
 					</div>
 				</Spin>
+				{/* 
+				定义路由
+				<BrowserRouter>
+					<Routes>
+						<Route path="" exact element={<Index />}></Route>
+						<Route path="/data" exact>
+							<Route path="list" element={<List />}></Route>
+							<Route path=":type/:id" element={<Edit />}></Route>
+						</Route>
+						<Route path="*" element={<Notfound />} />
+					</Routes>
+				</BrowserRouter> 
+
+				跳转路由
+				<Link to="/data/list">list</Link>
+				导航方法				
+				const location = useLocation()
+				const currentRootPath = location.pathname.split('/')[1]
+				const currentSecondPath = location.pathname.split('/')[2]
+				代码路由
+				const navigate = useNavigate()
+				navigate('/data/realtime')
+				获取参数
+				const { type, id } = useParams()
+				*/}
 			</div>
 		</div >
 	)
